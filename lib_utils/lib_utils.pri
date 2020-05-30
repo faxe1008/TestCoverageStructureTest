@@ -1,0 +1,3 @@
+INCLUDEPATH += $$PWD/src
+DEPENDPATH += $$PWD/src
+CONFIG += c++11
